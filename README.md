@@ -1,2 +1,2 @@
-# Binary-Search-Tree-For-C
+# Binary search tree
 Implementation of BST. C language.
